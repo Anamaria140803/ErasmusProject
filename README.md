@@ -1,4 +1,4 @@
 # ErasmusProject
 Proiect Erasmus+ 2021
  
-acest proiect este un blog personal despre pasiunea mea, fashionul
+This project reperesents a personal blog about fashion. 
